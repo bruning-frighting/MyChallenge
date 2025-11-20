@@ -6,3 +6,5 @@ PIS{<CVE>_<ip:port>_<fullpath persistence>}
 
 VD: PIS{CVE-XXXX-XXXX_IP:PORT_/etc/passwd}
 > Note : IP:PORT của initial access
+
+link: https://drive.google.com/file/d/1mfC0yBNb3LJNPgwlTrAuDJ_zP9MU5--k/view?usp=sharing
